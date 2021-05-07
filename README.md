@@ -1,1 +1,3 @@
 # OpticalCharacterRecognition
+
+Optical character recognition is basically the electronic or mechanical conversion of images of typed, handwritten or printed text into machine encoded text, whether from a scanned document or a photo. In the attached python code I've used pytesseract to read the text out of the image, here the main ROI (Range of interest) are characters. Basically reason behind trying this code is to face the challenegs of reading a text from somewhere, as font, size, visibility etc.There are many problems one can face while reading something. Applications of Optical Character Recognition are: ■ Google Lens ■ Any app which includes scanning of a document (example- CamScanner etc.)
