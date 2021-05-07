@@ -1,0 +1,33 @@
+It is quite natural for academics who are continuously told to “publish or perish” to want to always
+create something from scratch that is their own fresh creation. This book is an experiment in not starting
+from scratch, but instead “remixing” the book titled Think Python: How to Think Like a Computer
+Scientist written by Allen B. Downey, Jeff Elkner, and others. In December of 2009, | was preparing to
+teach $1502 - Networked Programming at the University of Michigan for the fifth semester in a row and
+decided it was time to write a Python textbook that focused on exploring data instead of understanding
+algorithms and abstractions. My goal in SI502 is to teach people lifelong data handling skills using
+Python. Few of my students were planning to be professional computer programmers. Instead, they
+planned to be librarians, managers, lawyers, biologists, economists, etc., who happened to want to
+skillfully use technology in their chosen field. | never seemed to find the perfect data-oriented Python
+book for my course, so | set out to write just such a book. Luckily at a faculty meeting three weeks
+before | was about to start my new book from scratch over the holiday break, Dr. Atul Prakash showed
+me the Think Python book which he had used to teach his Python course that semester. It is a well-
+written Computer Science text with a focus on short, direct explanations and ease of learning. The
+overall book structure has been changed to get to doing data analysis problems as quickly as possible
+and have a serlt is quite natural for academics who are continuously told to “publish or perish” to want
+to always create something from scratch that is their own fresh creation. This book is an experiment in
+not starting from scratch, but instead “remixing” the book titled Think Python: How to Think Like a
+Computer Scientist written by Allen B. Downey, Jeff Elkner, and others. In December of 2009, | was
+preparing to teach SI502 - Networked Programming at the University of Michigan for the fifth semester
+in a row and decided it was time to write a Python textbook that focused on exploring data instead of
+understanding algorithms and abstractions. My goal in SI502 is to teach people lifelong data handling
+skills using Python. Few of my students were planning to be professional computer programmers.
+Instead, they planned to be librarians, managers, lawyers, biologists, economists, etc., who happened to
+want to skillfully use technology in their chosen field. | never seemed to find the perfect data-oriented
+Python book for my course, so | set out to write just such a book. Luckily at a faculty meeting three
+weeks before | was about to start my new book from scratch over the holiday break, Dr. Atul Prakash
+showed me the Think Python book which he had used to teach his Python course that semester. It is a
+well-written Computer Science text with a focus on short, direct explanations and ease of learning. The
+overall book structure has been changed to get to doing data analysis problems as quickly as possible
+and have a series of running examples and exercises about data analysis from the very beginningies of
+running examples and exercises about data analysis from the very beginning
+
